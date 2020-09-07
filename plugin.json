@@ -1,0 +1,5 @@
+{
+    "Keys" : ["docker/u6kapps/open_jtalk"],
+    "Provider": "Open JTalk(docker)",
+    "Version": 100
+}
